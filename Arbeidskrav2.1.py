@@ -1,4 +1,4 @@
-# Program som tar ditt fødselsår for å beregne din alder.
+# Program som tar ditt fødselsår for å beregne din alder
 
 born = int(input("Skriv inn hvilket år du er født: "))
 
